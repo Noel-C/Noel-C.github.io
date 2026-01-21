@@ -1,18 +1,34 @@
-# Noel Carrero
-### Data Analyst | Estadística y Ciencias Actuariales
+---
+layout: home
+---
 
-Analista de datos con formación en Estadística y Ciencias Actuariales y máster en
-Inteligencia de Negocio. Experiencia en análisis estadístico, visualización de datos
-y modelos predictivos aplicados a distintos sectores.
+## 👋 Hola, soy Noel Carrero
 
-## Proyectos
-- 📊 Estimación de precios de alquiler en Madrid (Python, ML)
-- 🏠 IA aplicada al sector inmobiliario en España
-- ❤️ Evaluación de riesgos en seguros de vida y salud
-- 📈 Análisis y visualización de datos para toma de decisiones
+Soy **analista de datos** con formación en **Estadística y Ciencias Actuariales** y
+máster en **Inteligencia de Negocio**. Trabajo con datos para generar conocimiento
+útil mediante análisis estadístico, visualización y modelos predictivos.
 
-## Tecnologías
+---
+
+## 📊 Proyectos destacados
+
+- **Estimación de precios de alquiler en Madrid**  
+  Modelos predictivos en Python aplicados al mercado inmobiliario.
+
+- **IA aplicada a seguros de vida y salud**  
+  Evaluación de riesgos y fijación de precios bajo marcos regulatorios.
+
+- **Visualización y análisis de datos**  
+  Dashboards y análisis orientados a la toma de decisiones.
+
+---
+
+## 🛠️ Tecnologías
+
 Python · R · SQL · Power BI · Tableau · Excel · Git
 
-## Contacto
-- GitHub: https://github.com/Noel-C
+---
+
+## 📬 Contacto
+
+- GitHub: https://github.com/Noel-C  
