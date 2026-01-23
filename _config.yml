@@ -1,3 +1,9 @@
 theme: minima
 title: Noel Carrero
 description: Data Analyst | Estadística y Ciencias Actuariales
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
